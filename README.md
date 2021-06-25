@@ -2,7 +2,7 @@
 
 Repository for the project of the course "Information Retrieval" of the master degree "Data Science and Scientific Computing" @UniTS.
 
-For the project I needed to implement the following tasks:
+The following tasks are required to be implemented:
 
 - Write an IR system that uses latent semantic indexing to answer queries.
 - The system must accept free-form text queries.
